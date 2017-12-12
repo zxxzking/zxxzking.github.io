@@ -1,0 +1,22 @@
+body{
+	background-color: #1F6377;
+}
+
+a:link{
+	color: #408140;
+}
+
+a:visited{
+	color:#AAC5E7;
+}
+
+#topColumn{
+	margin-top: 14%;
+	margin-left: 23%;
+	margin-right: 23%;
+	height: 350px;
+	background-color: #499249;
+	padding: 5px;
+	border: hidden;
+}
+
